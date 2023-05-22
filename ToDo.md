@@ -5,4 +5,10 @@
 * Move build plate for nozzle brush
 
 ## Mechanical
-*Runout sensor
+* Runout sensor
+
+## Firmware set up
+* Create machine.cfg
+
+## Tuning
+* Pressure advance
