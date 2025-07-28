@@ -1,7 +1,5 @@
 ## Housing
-* Foam on front
-* 270 Hinges
-* Side snap locks
+*
 * Move build plate for nozzle brush
 
 ## Mechanical
