@@ -1,6 +1,6 @@
-## Housing
+## Extruder
+*  
 *
-* Move build plate for nozzle brush
 
 ## Mechanical
 * Runout sensor
